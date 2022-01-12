@@ -1,3 +1,3 @@
 # cse15l-lab-reports
 
-**Bold** This is a lab report for cse 15l course.
+**This is a collection of lab reports for cse 15l course.** 
