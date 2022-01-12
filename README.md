@@ -2,7 +2,8 @@
 
 **This is a collection of lab reports for cse 15l course.** 
 
-To use this repository, just edit index.md &nbsp；
+To use this repository, just edit index.md 
+"&nbsp；"
 
 *The course website:*
 https://ucsd-cse15l-w22.github.io
