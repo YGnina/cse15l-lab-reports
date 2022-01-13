@@ -1,4 +1,13 @@
-Hello, cse 15l :)
+**Hello, cse 15l :)**
 
-I'm adding this in vscode wow!!
-I guess i need to download git for this but i'm too lazy to do that :<
+*I'm a new transfer student that*
+1) majors in cs
+2) lives on campus
+
+# This is my line using heading 1
+## This is my line using heading 2
+
+and i'm going to quoto something
+> "balabala"
+
+
