@@ -22,3 +22,5 @@ And i'm going to quoto something
 ```
 System.out.println("Hello");
 ```
+
+![Image](https://github.com/YGnina/cse15l-lab-reports/blob/main/pictures/screen.png)
