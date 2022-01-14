@@ -23,4 +23,4 @@ And i'm going to quoto something
 System.out.println("Hello");
 ```
 
-![Image](screen.jpg)
+![Image](pictures/screen.jpg)
