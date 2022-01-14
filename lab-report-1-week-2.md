@@ -15,4 +15,4 @@ $ ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
 and the result you got would be like this:
 
-![Image](https://github.com/YGnina/cse15l-lab-reports/blob/main/code1.jpg)
+![Image](https://github.com/YGnina/cse15l-lab-reports/blob/main/pictures/code1.jpg)

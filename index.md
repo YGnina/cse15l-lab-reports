@@ -8,6 +8,10 @@
 
 ---
 
+## [Lab Report 1](https://github.com/YGnina/cse15l-lab-reports/blob/main/lab-report-1-week-2.md)
+
+---
+
 # This is my line using heading 1
 ## This is my line using heading 2
 
