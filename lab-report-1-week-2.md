@@ -13,12 +13,23 @@ To connect the remote server, we will use the command as below but replace it to
 ``` 
 $ ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
-and the result you got would be like this:
+
+For people who first try remote connecting, they might see
+  
+  ```
+  ⤇ ssh cs15lwi22zz@ieng6.ucsd.edu
+  The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+  RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+  Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+  ```
+  
+Just enter "yes" in this case and the result you got would be like this:
 
 ![Image](https://github.com/YGnina/cse15l-lab-reports/blob/main/pictures/code1.jpg)
 
-Ok, now our terminal is connected to a computer in the CSE basement, and we can use that one to run any commands
-Let's try some commands, such as:
+Ok, now our terminal is connected to a computer in the CSE basement, and we can use that one to run any commands.
+
+Let's try something basic, such as:
 ``` 
 $ cd ~                  //change to home directory
 $ cd                    //take to home directory
