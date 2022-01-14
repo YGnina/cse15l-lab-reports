@@ -6,7 +6,7 @@ Preparation:
 2. Install Visual Studio Code
 
 After we get ready, then we can open the VSCode. The window should look like this:
-![Image](https://github.com/YGnina/cse15l-lab-reports/blob/main/vscode.png)
+![Image](https://github.com/YGnina/cse15l-lab-reports/blob/main/pictures/vscode.png)
 
 
 To connect the remote server, we will use the command as below but replace it to your own account name
