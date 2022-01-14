@@ -20,10 +20,10 @@ and the result you got would be like this:
 Ok, now our terminal is connected to a computer in the CSE basement, and we can use that one to run any commands
 Let's try some commands, such as:
 ``` 
-$ cd ~
-$ cd
-$ ls -lat
-$ ls -a
+$ cd ~                  //change to home directory
+$ cd                    //take to home directory
+$ ls -lat               //list all files with latest first
+$ ls -a                 //list all files and directoies including hidden ones
 ```
 You should get the result as below:
 ![Image](https://github.com/YGnina/cse15l-lab-reports/blob/main/pictures/other.jpg)
