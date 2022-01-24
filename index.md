@@ -12,11 +12,6 @@
 
 ---
 
-# This is my line using heading 1
-## This is my line using heading 2
-
-And i'm going to quoto something
-> "balabala"
 
 
 ```
