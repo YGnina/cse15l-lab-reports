@@ -97,7 +97,7 @@ $ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 ``` 
 
 In the code above we put 3 codes in one line and run it. Both these two tricks can save our time and make coding more efficient.
-Since we are able to copy and paste the code or just use tab key to get the former code, so the keystrokes are fairly few, which are around 10.
+Since we are able to copy and paste the code or just use tab and arrow key to get the former code, so the keystrokes are fairly few, which are around 10.
 
 The result would be as below:
 
