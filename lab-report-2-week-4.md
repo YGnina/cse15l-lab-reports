@@ -1,12 +1,12 @@
 
-## [First bug](https://github.com/YGnina/markdown-parse/blob/main/MarkdownParse.java)
+## [First bug](https://github.com/YGnina/markdown-parse/blob/main/test-file.md)
 ![Image](/pictures/lab2pic1.jpg)
 ![Image](/pictures/lab2bug1.jpeg)
 
 In this part, there is an `ArrayIndexOutOfBoundsException` as is shown in the terminal. It gets an unexpected result 0, which is out of the bounds. In order to solve this problem, we added an `if` statement to print out the invalid input and break the `while` loop.
 
 
-## [Second bug](https://github.com/YGnina/markdown-parse/blob/main/MarkdownParseTest.java)
+## [Second bug](https://github.com/YGnina/markdown-parse/blob/main/test-file2.md)
 ![Image](/pictures/lab2pic2.jpg)
 ![Image](/pictures/lab2bug2.jpg)
 
