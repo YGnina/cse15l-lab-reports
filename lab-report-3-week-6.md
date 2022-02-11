@@ -12,7 +12,7 @@ We can change the nickname as nina for example:
 ![Image](/pictures/lab3pic5.jpg)
 
 ## Show the ssh command logging 
-Now the username is still `ieng6` and we want to log into the server, we need to use 
+Now the username is changed to `nina` and if we want to log into the server, we need to use 
 ```
 ssh nina
 ```
