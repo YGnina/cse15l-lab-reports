@@ -6,6 +6,7 @@ Since I don't have config file, I create it before I use `~/.ssh/config` to tell
 Code as below:
 
 ![Image](/pictures/lab3pic1.jpg)
+![Image](/pictures/lab3pic3.jpg)
 
 We can change the nickname as nina for example:
 
